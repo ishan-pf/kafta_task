@@ -1,0 +1,40 @@
+
+.app{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height:100vh;
+  gap:5rem;
+  background-color:#dee8fc;
+}
+
+.counter{  
+  /* position: 'relative';
+  top: '10vh'; */
+  background: #3978ee;
+  font-size:100px;
+  text-align: center;
+  border-radius: 20px;
+  width:15vw;
+  /* height:20vh; */
+  color:#fff;
+}
+
+.btn-1{
+  color:#a5c2f8;
+  /* width:100px;
+  height:100px; */
+  border:none;
+  background-color: transparent;
+  font-size:100px;
+}
+
+.btn-2{ 
+  color: #a5c2f8;
+
+  /* width:100px;
+  height:100px; */
+  border:none;
+  background-color: transparent;
+  font-size:100px;
+}
